@@ -1,0 +1,25 @@
+pane	0	1	:zsh	1	:*	1	:/home/qma	1	zsh	:
+pane	1	1	:zsh	1	:*	1	:/home/qma/ottomatika	1	zsh	:
+pane	3	1	:[tmux]	1	:*	1	:/home/qma	1	zsh	:
+pane	3	2	:zsh	0	:#-	1	:/home/qma	0	zsh	:
+pane	3	2	:zsh	0	:#-	2	:/home/qma	1	zsh	:
+pane	3	3	:zsh	0	:#	1	:/home/qma	0	zsh	:
+pane	3	3	:zsh	0	:#	2	:/home/qma	0	zsh	:
+pane	3	3	:zsh	0	:#	3	:/home/qma	1	zsh	:
+pane	5	1	:zsh	1	:*	1	:/home/qma	1	zsh	:
+pane	9	1	:ottomatika	1	:*	1	:/home/qma/ottomatika	1	zsh	:
+pane	9	2	:ottoview	0	:#-	1	:/home/qma	0	zsh	:
+pane	9	2	:ottoview	0	:#-	2	:/home/qma	1	zsh	:
+pane	9	3	:test	0	:#	1	:/home/qma	0	zsh	:
+pane	9	3	:test	0	:#	2	:/home/qma	0	zsh	:
+pane	9	3	:test	0	:#	3	:/home/qma	1	zsh	:
+window	0	1	1	:*	cfde,239x67,0,0,1
+window	1	1	1	:*	cfdf,239x67,0,0,2
+window	3	1	1	:*	cfe0,239x67,0,0,3
+window	3	2	0	:#-	1ece,239x67,0,0{119x67,0,0,4,119x67,120,0,5}
+window	3	3	0	:#	eeda,239x67,0,0{119x67,0,0,6,119x67,120,0[119x33,120,0,7,119x33,120,34,8]}
+window	5	1	1	:*	cfe6,239x67,0,0,9
+window	9	1	1	:*	611f,212x55,0,0,10
+window	9	2	0	:#-	5284,191x52,0,0{95x52,0,0,11,95x52,96,0,12}
+window	9	3	0	:#	5932,191x52,0,0{94x52,0,0,13,96x52,95,0[96x25,95,0,14,96x26,95,26,15]}
+state	9	5
