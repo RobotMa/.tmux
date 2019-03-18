@@ -1,0 +1,41 @@
+pane	0	1	:zsh	1	:*	1	:/home/qma	1	zsh	:
+pane	10	1	:zsh	1	:*	1	:/home/qma	1	zsh	:
+pane	11	1	:zsh	1	:*	1	:/home/qma/nuWorkspace/nuCore/nucore/param/map	1	zsh	:
+pane	13	1	:zsh	1	:*	1	:/home/qma/nuWorkspace/nuCore/nucore/param/map	1	zsh	:
+pane	3	1	:[tmux]	1	:*	1	:/home/qma	1	zsh	:
+pane	3	2	:zsh	0	:-	1	:/home/qma	0	zsh	:
+pane	3	2	:zsh	0	:-	2	:/home/qma	1	zsh	:
+pane	3	3	:zsh	0	:	1	:/home/qma	0	zsh	:
+pane	3	3	:zsh	0	:	2	:/home/qma	0	zsh	:
+pane	3	3	:zsh	0	:	3	:/home/qma	1	zsh	:
+pane	4	1	:zsh	1	:*	1	:/home/qma	1	zsh	:
+pane	5	1	:zsh	1	:*	1	:/home/qma	1	zsh	:
+pane	6	1	:zsh	1	:*	1	:/home/qma	1	zsh	:
+pane	7	1	:zsh	1	:*	1	:/home/qma	1	zsh	:
+pane	8	1	:zsh	1	:*	1	:/home/qma	1	zsh	:
+pane	9	1	:AptivStack	1	:*	1	:/home/qma	1	zsh	:
+pane	9	2	:BR-container	0	:#-	1	:/home/qma	1	bash	:/bin/bash /usr/local/bin/runct borromean-rings borromean_user
+pane	9	3	:nuCore	0	:#	1	:/home/qma/workspace/ottomatika/config/scenarios/CETRAN_LTA_M2/nutonomy_scenarios	0	bash	:bash
+pane	9	3	:nuCore	0	:#	2	:/home/qma/nuWorkspace/nuCore/nucore/config/template-builder	1	bash	:/bin/bash ./setup.sh
+pane	9	4	:On-Vehicle	0	:	1	:/home/qma/nuWorkspace/nuCore/nucore	1	bash	:bash
+pane	9	4	:On-Vehicle	0	:	2	:/home/qma/nuWorkspace/nuCore	0	zsh	:
+pane	9	4	:On-Vehicle	0	:	3	:/home/qma	0	zsh	:
+pane	9	5	:zsh	0	:	1	:/home/qma	1	zsh	:
+window	0	1	1	:*	cfde,239x67,0,0,1
+window	10	1	1	:*	e820,239x67,0,0,21
+window	11	1	1	:*	e821,239x67,0,0,22
+window	13	1	1	:*	e823,239x67,0,0,24
+window	3	1	1	:*	cfdf,239x67,0,0,2
+window	3	2	0	:-	9ecc,239x67,0,0{119x67,0,0,3,119x67,120,0,4}
+window	3	3	0	:	6ed6,239x67,0,0{119x67,0,0,5,119x67,120,0[119x33,120,0,6,119x33,120,34,7]}
+window	4	1	1	:*	cfe5,239x67,0,0,8
+window	5	1	1	:*	cfe6,239x67,0,0,9
+window	6	1	1	:*	681f,239x67,0,0,10
+window	7	1	1	:*	6820,239x67,0,0,11
+window	8	1	1	:*	6821,239x67,0,0,12
+window	9	1	1	:*	6822,239x67,0,0,13
+window	9	2	0	:#-	6823,239x67,0,0,14
+window	9	3	0	:#	7efa,239x67,0,0{118x67,0,0,15,120x67,119,0,16}
+window	9	4	0	:	aaa6,239x67,0,0{119x67,0,0,17,119x67,120,0[119x33,120,0,18,119x33,120,34,19]}
+window	9	5	0	:	e81f,239x67,0,0,20
+state	9	5
