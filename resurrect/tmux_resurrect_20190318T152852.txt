@@ -1,0 +1,41 @@
+pane	0	1	:zsh	1	:*	1	:/home/qma	1	zsh	:
+pane	10	1	:zsh	1	:*	1	:/home/qma	1	zsh	:
+pane	11	1	:zsh	1	:*	1	:/home/qma/nuWorkspace/nuCore/nucore/param/map	1	zsh	:
+pane	13	1	:zsh	1	:*	1	:/home/qma/nuWorkspace/nuCore/nucore/param/map	1	zsh	:
+pane	3	1	:[tmux]	1	:*	1	:/home/qma	1	zsh	:
+pane	3	2	:zsh	0	:-	1	:/home/qma	0	zsh	:
+pane	3	2	:zsh	0	:-	2	:/home/qma	1	zsh	:
+pane	3	3	:zsh	0	:	1	:/home/qma	0	zsh	:
+pane	3	3	:zsh	0	:	2	:/home/qma	0	zsh	:
+pane	3	3	:zsh	0	:	3	:/home/qma	1	zsh	:
+pane	4	1	:zsh	1	:*	1	:/home/qma	1	zsh	:
+pane	5	1	:zsh	1	:*	1	:/home/qma	1	zsh	:
+pane	6	1	:zsh	1	:*	1	:/home/qma	1	zsh	:
+pane	7	1	:zsh	1	:*	1	:/home/qma	1	zsh	:
+pane	8	1	:zsh	1	:*	1	:/home/qma	1	zsh	:
+pane	9	1	:AptivStack	1	:*	1	:/home/qma	1	zsh	:
+pane	9	2	:BR-container	0	:-	1	:/home/qma	1	zsh	:
+pane	9	3	:nuCore	0	:	1	:/home/qma	1	zsh	:
+pane	9	3	:nuCore	0	:	2	:/home/qma/nuWorkspace	0	bash	:bash
+pane	9	4	:On-Vehicle	0	:#	1	:/home/qma/nuWorkspace/nuCore/nucore	1	zsh	:
+pane	9	4	:On-Vehicle	0	:#	2	:/home/qma/nuWorkspace/nuCore	0	zsh	:
+pane	9	4	:On-Vehicle	0	:#	3	:/home/qma	0	zsh	:
+pane	9	5	:zsh	0	:#	1	:/home/qma	1	zsh	:
+window	0	1	1	:*	cfde,239x67,0,0,1
+window	10	1	1	:*	cfdf,239x67,0,0,2
+window	11	1	1	:*	cfe0,239x67,0,0,3
+window	13	1	1	:*	cfe1,239x67,0,0,4
+window	3	1	1	:*	cfe2,239x67,0,0,5
+window	3	2	0	:-	1ed1,239x67,0,0{119x67,0,0,6,119x67,120,0,7}
+window	3	3	0	:	97d2,239x67,0,0{119x67,0,0,8,119x67,120,0[119x33,120,0,9,119x33,120,34,10]}
+window	4	1	1	:*	6820,239x67,0,0,11
+window	5	1	1	:*	6821,239x67,0,0,12
+window	6	1	1	:*	6822,239x67,0,0,13
+window	7	1	1	:*	6823,239x67,0,0,14
+window	8	1	1	:*	6824,239x67,0,0,15
+window	9	1	1	:*	6825,239x67,0,0,16
+window	9	2	0	:-	6826,239x67,0,0,17
+window	9	3	0	:	7efd,239x67,0,0{118x67,0,0,18,120x67,119,0,19}
+window	9	4	0	:#	ba9d,239x67,0,0{119x67,0,0,20,119x67,120,0[119x33,120,0,21,119x33,120,34,22]}
+window	9	5	0	:#	e822,239x67,0,0,23
+state	9	5
